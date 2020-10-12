@@ -1,0 +1,3 @@
+# Repository_gpy
+高胖鱼的第一个GitHub远端库
+用于测试/DESKTOP/git_test文件夹和/DESKTOP/git_clone文件夹的同步问题，还有与github服务器之间的同步问题
